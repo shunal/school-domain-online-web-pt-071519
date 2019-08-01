@@ -13,7 +13,7 @@ end
 def add_student(name, grade)
   
   if roster.include [grade]
-    [grade] << name
+    roster[grade] << name
   else
     roster[grade] = []
   roster[grade] << name
