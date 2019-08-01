@@ -19,6 +19,9 @@ def add_student(name, grade)
   end
 end
 
+def grade(grade)
+  roster[grade]
+end
 
 end 
 school = School.new("Bayside High School")
