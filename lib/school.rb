@@ -23,9 +23,7 @@ def grade(grade)
   roster[grade]
 end
 
-def sort(array)
-  School.sort
-end
+School.sort
 
 end 
 school = School.new("Bayside High School")
