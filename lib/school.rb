@@ -16,7 +16,6 @@ def add_student(name, grade)
   else
     roster[grade] = []
   roster[grade] << name
-  binding.pry
   end
 end
 
@@ -26,7 +25,7 @@ end
 
 
 def sort(school)
-  
+
 end
 
 end 
