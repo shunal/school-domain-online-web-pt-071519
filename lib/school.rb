@@ -16,13 +16,14 @@ def add_student(name, grade)
   else
     roster[grade] = []
   roster[grade] << name
+  binding.pry
   end
 end
 
 def grade(grade)
   roster[grade]
 end
-binding.pry
+
 
 def sort(school)
   
