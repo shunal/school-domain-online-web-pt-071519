@@ -24,7 +24,7 @@ def grade(grade)
 end
 
 def sort(school)
-  school.sort
+  
 end
 
 end 
