@@ -24,7 +24,7 @@ def grade(grade)
 end
 
 def sort(school)
-  name.sort
+  binding.pry
 end
 
 end 
