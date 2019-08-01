@@ -23,7 +23,7 @@ def grade(grade)
   roster[grade]
 end
 
-def sort(roster)
+def sort(array)
   binding.pry
 end
 
