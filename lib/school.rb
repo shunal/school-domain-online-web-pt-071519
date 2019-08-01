@@ -24,7 +24,7 @@ def grade(grade)
 end
 
 def sort(array)
-  binding.pry
+  
 end
 
 end 
