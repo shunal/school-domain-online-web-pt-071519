@@ -24,7 +24,7 @@ def grade(grade)
 end
 
 def sort(roster)
-  roster.sort
+  binding.pry
 end
 
 end 
