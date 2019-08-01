@@ -23,8 +23,8 @@ def grade(grade)
   roster[grade]
 end
 
-def sort
-  roster[grade].sort
+def sort(array)
+  array.sort
 end
 
 end 
